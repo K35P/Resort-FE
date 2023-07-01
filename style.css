@@ -1,0 +1,24 @@
+.bg-header{
+    height: 75vh;
+    background-image: linear-gradient(to bottom, rgba(41, 41, 41, 0.313), rgba(0, 0, 0, 0.73)),
+    url('media/hotel6.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-search{
+    height: auto;
+    background-color: rgb(55, 55, 55);
+    width: 80%;
+    position: relative;
+    top: -50px;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+}
+
+.input-custom{
+    background-color: rgb(47, 47, 47);
+    border: none;
+    color: rgb(255, 255, 255);
+}
